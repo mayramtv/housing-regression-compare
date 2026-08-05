@@ -1,5 +1,5 @@
 # California Housing Price Prediction
-### Implementing Linear Regression and Gradient Descent from Scratch
+### Implementing Algorithms for Linear Regression and Gradient Descent from Scratch
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
