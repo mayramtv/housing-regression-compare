@@ -2,17 +2,22 @@
 ### Implementing Linear Regression and Gradient Descent from Scratch
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
 ![Linear Regression](https://img.shields.io/badge/Algorithm-Linear%20Regression-green)
 ![Gradient Descent](https://img.shields.io/badge/Optimization-Gradient%20Descent-orange)
 ![Educational Project](https://img.shields.io/badge/Project-Educational-informational)
+![Built From Scratch](https://img.shields.io/badge/Implementation-From%20Scratch-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 > Linear Regression project focused on predicting **California housing** prices by comparing and understanding the methodologies for **Simple Linear Regression** and **Gradient Descent Regression models**.
+**Highlights**
+>
+> - Implemented **Linear Regression from scratch**
+> - Built an iterative **Gradient Descent optimizer**
+> - Compared custom implementations against **Scikit-learn**
+> - Predicted California housing prices using supervised learning
 
 <p align="center">
 <img src="./Assets/hero-banner1.png" alt="Project Banner" width="40%" />
